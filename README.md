@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zutick
 - 👀 I’m interested in ...Machine Learning , Artificial Intelligence and Deep Learning 
-- 🌱 I’m currently ...Making some machine learning projects
+- 🌱 I’m currently learning ...OpenCV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
